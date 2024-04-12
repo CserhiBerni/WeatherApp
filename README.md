@@ -1,1 +1,1 @@
-# WeatherApp
+# Lovas app
