@@ -1,0 +1,10 @@
+.home_link{
+    text-decoration: none;
+    color: grey;
+}
+
+.home {
+    height: 200vh;
+    padding-top: 55px;
+}
+
