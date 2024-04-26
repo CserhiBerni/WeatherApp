@@ -1,0 +1,22 @@
+.home_link{
+    text-decoration: none;
+    color: grey;
+}
+
+.home {
+    padding-top: 5.5vh;
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    height: 94.5vh;
+}
+
+.first-section {
+    width: auto;
+    height: auto;
+    background-color: black;
+    height: 94.5vh;
+    width: 55vw;
+}
