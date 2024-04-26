@@ -9,14 +9,37 @@
     flex-direction: row;
 }
 
-img {
+.zeus-horse {
     height: 94.5vh;
+    filter: grayscale(40%);
 }
 
 .first-section {
     width: auto;
     height: auto;
-    background-color: black;
+    background-color: #000000;
     height: 94.5vh;
     width: 55vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flagship-slogan{
+    color: #8cb1ab;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 8ch;
+    text-transform: uppercase;
+}
+
+.wrapper {
+	background-image: url(../images/thunder.jpg);
+    background-position: 50% 50%;   
+	background-repeat: repeat;
+    -webkit-background-size: cover;
+	background-size: cover;
+    font-size: 3ch;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	-webkit-text-fill-color: transparent; 
+	-webkit-background-clip: text; 
 }

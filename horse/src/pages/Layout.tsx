@@ -6,7 +6,7 @@ import '../App.css'
 export const Layout = () => {
   return (
     <>
-      <Navbar bg="dark" data-bs-theme="dark" expand="lg" className="fixed-top bg-body-tertiary">
+      <Navbar bg="dark" data-bs-theme="dark" expand="lg" className="fixed-top bg-body-tertiary sticky-nav">
         <Container>
           <Navbar.Brand className="text-uppercase">lóvé | a lovas web</Navbar.Brand>
           <Nav className="me-auto">
